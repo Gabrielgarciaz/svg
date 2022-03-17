@@ -73,10 +73,6 @@ body {
       position: relative;
   }
   
-  .footer-infos {
-      text-align: center;
-  }
-  
   @keyframes lett-preenchimento {
       to {
           fill: #BE253F;
